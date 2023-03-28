@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="description">login:   Email and Password in activity file .</string>
+</resources>
